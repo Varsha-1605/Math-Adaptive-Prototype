@@ -8,8 +8,8 @@ class MLAdaptiveEngine:
     Machine Learning based adaptive engine using trained Random Forest
     Uses 9 enhanced features from EDA notebook
     """
-    
-    def __init__(self, model_path='models/random_forest_tuned.pkl'):
+
+    def __init__(self, model_path='models/random_forest_model.pkl'):
         """
         Initialize ML engine with trained model
         
