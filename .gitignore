@@ -1,0 +1,9 @@
+models/
+__pycache__/
+visualizations/
+*.pkl
+*.csv
+*.png
+*.venv
+*.json
+venv/
